@@ -60,11 +60,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
+# 📖 Front-End of app:  <a name="about-project"></a>
+[Github-repo](https://github.com/wandergithub/hello-react-front-end)
 # 📖 Hello Rails BackEnd <a name="about-project"></a>
 
 
 
 **Hello Rails Back End** is a React front-end connected to a Rails API back-end to display a random message. This is the back end part of the project.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
